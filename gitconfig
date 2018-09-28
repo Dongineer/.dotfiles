@@ -1,0 +1,4 @@
+git config --global user.name "Dongineer"
+git config --global user.email "30032dongsu@gmail.com"
+git config --global core.editor vim
+git config --global merge.tool vimdiff
