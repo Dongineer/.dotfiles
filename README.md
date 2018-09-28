@@ -1,5 +1,6 @@
-### INStALL LIST
-- git, git config
+### INSTALL LIST
+
+- git, gitconfig
 - nvm
-- shell
-- 
+- shell(zsh)
+ 
